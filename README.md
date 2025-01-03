@@ -4,7 +4,8 @@
 更新目录：
 文件夹里包含文献原文，阅读总结
 ## 00-大模型文献综述
-- Political-LLM: Large Language Models in Political Science
+- Political-LLM: Large Language Models in Political Science [http://arxiv.org/abs/2412.06864]
+- 
 - 
 ## 01-大模型与调查研究
 ## 02-大模型与实验研究
